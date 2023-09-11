@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwagoro&theme=tokyonight&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwagoro&theme=monokai&layout=compact)]
 (https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwagoro&theme=tokyonight)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwagoro&theme=monokai)]
 (https://github.com/anuraghazra/github-readme-stats)
 
 
