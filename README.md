@@ -7,5 +7,5 @@
             src="https://github-readme-stats.vercel.app/api?username=iwagoro&theme=monokai&show_icons=ture" />
     </p>
     
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=iwagoro&theme=monokai&column=7">
+    <img alt="trophy" height="150px" src="https://github-profile-trophy.vercel.app/?username=iwagoro&theme=monokai&column=7">
 </div>
