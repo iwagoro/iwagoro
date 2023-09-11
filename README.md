@@ -7,5 +7,5 @@
 (https://github.com/anuraghazra/github-readme-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iwagoro&theme=oldie&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=iwagoro&theme=monokai&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
