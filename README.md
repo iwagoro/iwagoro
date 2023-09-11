@@ -15,5 +15,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iwagoro&show_icons=true&locale=en&theme=monokai" alt="iwagoro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iwagoro&" alt="iwagoro" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iwagoro&theme=monokai" alt="iwagoro" /></p>
 
