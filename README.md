@@ -1,7 +1,7 @@
 <img src="facebook_cover_photo_2.png">
 <h3 align="center">Hi There</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iwagoro&theme=monokai" alt="iwagoro" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iwagoro&theme=monokai&column=6" alt="iwagoro" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
