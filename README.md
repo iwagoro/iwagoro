@@ -1,5 +1,5 @@
 <div id="main" style="display:flex; flex-direction: column; justify-content: center;">
-    <img src="facebook_cover_photo_2.png">
+    
     <p align="center">
         <img alt="Top Langs" height="150px"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwagoro&layout=compact&show_icons=true&theme=monokai" />
@@ -9,5 +9,4 @@
     
     
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=iwagoro&theme=monokai&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
