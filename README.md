@@ -1,4 +1,3 @@
-<img src="facebook_cover_photo_2.png">
 <h3 align="center">Hi There</h3>
 <h4 align="center">3DCG/MUSIC/Web</h4>
 
