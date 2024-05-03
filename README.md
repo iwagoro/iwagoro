@@ -60,8 +60,7 @@
                 src="https://img.shields.io/badge/-GSAP-000.svg?logo=greensock&style=flat-square"
             />
         </div>
-
-        <div style="display: flex; align-items: center; gap: 20px">
+<div style="display: flex; align-items: center; gap: 20px">
             <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img
                     align="left"
