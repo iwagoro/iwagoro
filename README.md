@@ -1,8 +1,5 @@
 # Hi! I am Rockwell
 
-![image](https://github.com/iwagoro/iwagoro/assets/42830468/16015dcf-1383-4377-8ffa-d7225fb7e37f)
-
-
 <div style="display: flex; gap: 5px">
             <img
                 src="https://img.shields.io/badge/-PYTORCH-000.svg?logo=pytorch&style=flat-square"
