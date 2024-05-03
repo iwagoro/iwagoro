@@ -60,3 +60,19 @@
                 src="https://img.shields.io/badge/-GSAP-000.svg?logo=greensock&style=flat-square"
             />
         </div>
+
+
+  <div style="display: flex; align-items: center; gap: 20px">
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img
+                    align="left"
+                    src="https://github-readme-stats.vercel.app/api?username=iwagoro&count_private=true&show_icons=true&theme=codeSTACKr"
+                />
+            </a>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img
+                    align="left"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwagoro&theme=codeSTACKr&layout=compact"
+                />
+            </a>
+        </div>
