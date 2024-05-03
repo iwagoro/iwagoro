@@ -62,7 +62,7 @@
         </div>
 
 
-  <div style="display: flex; align-items: center; gap: 20px">
+        <div style="display: flex; align-items: center; gap: 20px;">
             <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img
                     align="left"
